@@ -43,15 +43,15 @@ $(document).ready(function() {
           }, 300);
         }
       } else {
-		$('html, body').animate({
-			scrollTop: $("#happyCouple").offset().top
-		}, 2000);
-	  }
+        $('html, body').animate({
+          scrollTop: $("#happyCouple").offset().top
+        }, 2000);
+	    }
     });
     
     // Gallery Lightbox
     $(".bearr-gallery-item a").simpleLightbox();   
-     
+
 	/*========== Countdown start ================*/
 			var clock;
 
