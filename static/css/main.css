@@ -110,6 +110,19 @@ img {
     height: 100%;
 }
 
+.wedding-address {
+	color: #ffffff;
+	font-size: 26px;
+}
+
+.wedding-address .start-point {
+	float: left;
+}
+
+.wedding-address .destination-point {
+	float: right;
+}
+
 .fill {
     width: 100%;
     height: 100%;
