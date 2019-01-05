@@ -449,7 +449,7 @@ ul.color_schemes li {
 
 /* 2.1. Images Background */
 .page-image-bg {
-	background: url(../img/bg-img-2.jpg) no-repeat center center;
+	background: url(../img/car1.JPG) no-repeat center center;
 	background-size: cover;
 	height: 100%;
 	width: 100%;
@@ -1469,6 +1469,12 @@ span.swirl-right {
 	}
 	.single-happy-and{
 		display: block;
+	}
+	.wedding-address .start-point {
+		width: 100%;
+	}
+	.wedding-address .destination-point {
+		width: 100%;
 	}
 }
 
